@@ -18,4 +18,4 @@
 - نظام حجز مع أولوية تلقائية.
 - نظام تقييمات مرتبط بسجل الإعارات المكتمل.
 ## Postman collection 
-[اضغط هنا لعرض تصميم قاعدة البيانات (collection)](https://documenter.getpostman.com/view/30469576/2sBXwmQst9)
+[collection)](https://documenter.getpostman.com/view/30469576/2sBXwmQst9)
